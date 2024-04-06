@@ -1,0 +1,15 @@
+.element-one,
+.element-two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman";
+}
+
+.element-one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.element-two {
+    background-color: yellow;
+}
